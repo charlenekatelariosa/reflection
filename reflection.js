@@ -1,0 +1,1 @@
+console.log("my reflection during intrams are very fun but at the same time its hot, im happy to cheer our department and watch the pageant. They also have a booths where u can buy some foods. 
